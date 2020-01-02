@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ParserTest": {
+      "commandName": "Project",
+      "commandLineArgs": "test -v -p \"c:\\test more\\buz\"\"test\"\"na.czt\""
+    }
+  }
+}
